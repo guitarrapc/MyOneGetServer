@@ -1,0 +1,1 @@
+﻿Get-Package | where Name -match Adobe

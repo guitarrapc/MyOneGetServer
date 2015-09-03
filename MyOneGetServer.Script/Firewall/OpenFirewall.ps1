@@ -1,0 +1,1 @@
+﻿New-NetFirewallRule -Name CustomOneGet -DisplayName CustomOneGet -Direction InBound -Enabled ([Microsoft.PowerShell.Cmdletization.GeneratedTypes.NetSecurity.Enabled]::True) -Action Allow -Protocol TCP -LocalPort 33478

@@ -1,0 +1,1 @@
+﻿.\CreativeCloudTemplate.ps1 -Server localhost -NuGetPath C:\Packages\nuspec\nuget.exe

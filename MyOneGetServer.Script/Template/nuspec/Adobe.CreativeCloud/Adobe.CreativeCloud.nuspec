@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>Adobe.CreativeCloud</id>
+    <title>Adobe Creative Cloud</title>
+    <version>3.2.0.129</version>
+    <authors>Adobe</authors>
+    <owners>Adobe</owners>
+    <summary>Adobe Creative Cloud installation through OneGet </summary>
+    <description>Adobe Creative Cloud installation through OneGet</description>
+    <projectUrl>https://creative.adobe.com</projectUrl>
+    <tags>Adobe</tags>
+    <licenseUrl>https://creative.adobe.com</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>

@@ -1,0 +1,6 @@
+[submodule "Grani.AWSExtensions"]
+	path = Grani.AWSExtensions
+	url = https://github.com/grani/Grani.AWSExtensions.git
+[submodule "Grani.CoreLib"]
+	path = Grani.CoreLib
+	url = https://github.com/grani/Grani.CoreLib.git
