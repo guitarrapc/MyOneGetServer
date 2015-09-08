@@ -10,3 +10,4 @@ Launch ```MyOneGetServer.sln``` and Debug **MyOneGetServer** Project.
 
 - [PackageManagement (aka. OneGet) の プライベートパッケージソースを NuGet Server で立ててみよう](http://tech.guitarrapc.com/entry/2015/09/04/042449)
 
+# Azure Web App Continuous Deployment
