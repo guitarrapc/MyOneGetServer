@@ -1,0 +1,2 @@
+[config] 
+command = powershell.exe -ExecutionPolicy RemoteSigned -command BuildScript\deploy.ps1 
